@@ -1,3 +1,4 @@
 # Pycoding Free Club
 
-Doby is Free..!
+<div align="center">이 학생들은 무료로 해줍니다.</div>
+
