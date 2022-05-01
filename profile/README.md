@@ -17,19 +17,19 @@
   ## Member
 
   <a href="https://github.com/joshuaPJH">
-    <img alt="Joshua's avatar" src="https://avatars.githubusercontent.com/u/63052825?v=4" width="30px" height="30px">
+    <img alt="Joshua's avatar" src="https://avatars.githubusercontent.com/u/63052825?v=4" width="50px" height="50px">
   </a>
   <a href="https://github.com/Novelier-Webbelier">
-    <img alt="Novelier Webbelier's avatar" src="https://avatars.githubusercontent.com/u/96553411?s=400&u=9f1d6cd0f9d10fb0d425d54ef769f35899e979f0&v=4" width="30px" height="30px">
+    <img alt="Novelier Webbelier's avatar" src="https://avatars.githubusercontent.com/u/96553411?v=4" width="50px" height="50px">
   </a>
   <a href="https://github.com/dragon080919">
-    <img alt="Dragon's avatar" src="https://avatars.githubusercontent.com/u/93823934?v=4" width="30px" height="30px">
+    <img alt="Dragon's avatar" src="https://avatars.githubusercontent.com/u/93823934?v=4" width="50px" height="50px">
   </a>
   <a href="https://github.com/cattemo">
-    <img alt="Cattemo's avatar" src="https://avatars.githubusercontent.com/u/101445866?v=4" width="30px" height="30px">
+    <img alt="Cattemo's avatar" src="https://avatars.githubusercontent.com/u/101445866?v=4" width="50px" height="50px">
   </a>
   <a href="https://github.com/dkswjdals">
-    <img alt="dkswjdals' avatar" src="https://avatars.githubusercontent.com/u/103344594?v=4" width="30px" height="30px">
+    <img alt="dkswjdals' avatar" src="https://avatars.githubusercontent.com/u/103344594?v=4" width="50px" height="50px">
   </a>
 
   ## !Join Us!
